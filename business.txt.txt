@@ -1,0 +1,16 @@
+Business entity
+
+1)employee
+2)recruiter
+3)organization
+4)staff
+
+Business Operations
+
+1) Log in to the system page
+2)display of the job recruit message
+3)register of candidate to apply for job
+4)Uploading CV
+5)fill all the  necessary information
+6)Send the message to the employee
+7)logout

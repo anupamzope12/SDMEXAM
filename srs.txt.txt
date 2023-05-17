@@ -1,0 +1,46 @@
+Title :- SRS Document for Employee Recruitment System
+
+Team:-Employee, Recruiter, staff members,organization,higher authority
+
+Objective :- the primary purpose is to develop Employee Recruitment System to optimize the requirement process for an organization
+
+ Scope :- Due to Employee Recruitment System jobseekers can register themselves online for various job based on their qualification  and apply for suitable job.
+
+Functional requirements: 
+
+Employee Recruitment System is the best way to recruit the employee in online mode from different locations based on their qualification and skills.
+
+In which jobseekers can register themselves online and view different organization requirements and apply for suitable job. 
+
+The system has facilities where prospective candidates can upload their CV and apply for job suited to them.
+
+This will also help for organizations to post their staffing requirements and view profiles of interested candidates.
+
+The system should properly track the employee CV and able to sort it properly based on their sorting criteria and recruiters should receive the email on their register email-Id on time.
+Response times for resume screening and interview scheduling, should be minimal.
+
+The user interface should be easy to navigate, and accessible to both recruiters and candidates. 
+
+The system should properly mention the format of the CV.
+
+Non Functional Requirements:
+
+Performance
+The system should be able to handle a large volume of job postings, applications, and user interactions without significant performance degradation
+
+Usability :
+The system should provide appropriate feedback and notifications to keep users informed of their application status and next steps.
+
+Scalability :
+The system should be designed to accommodate future growth and an increasing number of job postings, candidates
+
+Availability :
+The system should provide the service 24*7 hrs
+
+Security :
+The system should be secured.
+
+
+
+
+

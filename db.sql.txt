@@ -1,0 +1,25 @@
+create table employee(
+emailId varchar(20) primary key,
+fname varchar(20) ,
+lname varchar(20) ,
+address varchar(20),
+DOB date 
+)
+
+create table staff(
+emailId varchar(20) primary key,
+fname varchar(20) ,
+lname varchar(20) ,
+address varchar(20),
+DOB date 
+)
+
+create table organiztion(
+oemailId varchar(30) primary key,
+oname varchar(20) ,
+oaddress varchar(20)
+)
+
+insert into organization values ( organzioation@123 , organiztion , pune);
+insert into employee values ( shyam@123 , shyam, jadhav,akurdi,2000-02-05);
+insert into  staff values (anil@123 ,anil,kumar , pune,1995-05-12);
